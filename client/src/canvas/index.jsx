@@ -48,7 +48,7 @@ const CanvasModel = () => {
           </Center> 
         </CameraRig> 
       </Canvas> 
-      <button onClick={handleDownloadClick} className="absolute bottom-1 right-4 p-2 bg-[#f507dd] text-white font-bold rounded"> 
+      <button onClick={handleDownloadClick} className="absolute bottom-1 right-4 p-2 bg-[#13b307] text-white font-bold rounded"> 
         Скачать
       </button> 
     </div> 

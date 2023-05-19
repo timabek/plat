@@ -144,7 +144,7 @@ const Customizer = () => {
             className="absolute z-10 top-5 right-5"
             {...fadeAnimation}
           >
-             <a href="https://remember-delta.vercel.app/"> <button className='px-2 py-1.5 flex-1 rounded-md text-white font-bold bg-[#f507dd]'>Назад</button></a>
+             <a href="https://remember-delta.vercel.app/"> <button className='px-2 py-1.5 flex-1 rounded-md text-white font-bold bg-[#13b307]'>Назад</button></a>
           </motion.div>
 
           <motion.div
